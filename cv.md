@@ -75,3 +75,19 @@ I'm a beginner IT specialist. I have experience working with Python and am curre
                 n += 1
             
 ```
+
+ 
+
+## Projects
+
+ 
+
+- CV
+
+ 
+
+## Languages
+
+ 
+
+I have experience with Russian, Belorussian, English and a bit of German.
