@@ -82,7 +82,7 @@ I'm a beginner IT specialist. I have experience working with Python and am curre
 
  
 
-- CV https://github.com/nekit002/Basics-of-Web-programming.git
+- CV https://nekit002.github.io/Basics-of-Web-programming/cv
 
  
 
