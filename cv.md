@@ -82,7 +82,7 @@ I'm a beginner IT specialist. I have experience working with Python and am curre
 
  
 
-- CV
+- CV https://github.com/nekit002/Basics-of-Web-programming.git
 
  
 
@@ -91,3 +91,22 @@ I'm a beginner IT specialist. I have experience working with Python and am curre
  
 
 I have experience with Russian, Belorussian, English and a bit of German.
+
+
+
+## Contacts
+
+ 
+
+- +8 800 555 35 35
+- helloworld@gmail.com
+
+
+
+## Picture
+
+ ![аватарка](images.png)
+
+ 
+
+2026 Shekolyan N.D.
